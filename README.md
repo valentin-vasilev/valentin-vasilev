@@ -8,9 +8,9 @@
 - :beer: I like it cold and I like it anytime
 - :fishing_pole_and_fish: Born to fish, forced to work
 
-### Top Languages
+### Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-vasilev)](https://github.com/anuraghazra/github-readme-stats)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 
 ### GitHub stats
 
