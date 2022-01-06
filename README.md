@@ -10,4 +10,4 @@
 
 ### GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-vasilev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-vasilev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
