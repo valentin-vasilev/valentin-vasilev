@@ -10,6 +10,7 @@
 
 ### Languages and Tools
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vsco.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 
 ### GitHub stats
