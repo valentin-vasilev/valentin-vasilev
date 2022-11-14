@@ -17,12 +17,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="docker" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="graphql" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="shell" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
 <img align="left" alt="vim" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" />
+<img align="left" alt="docker" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="ansible" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" />
+<img align="left" alt="terraform" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 
 <br />
 <br />
