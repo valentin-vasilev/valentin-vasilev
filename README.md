@@ -18,10 +18,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="docker" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="graphql" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="github" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="shell" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+<img align="left" alt="vim" width="35px" src="(https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg)" />
 
 <br />
 <br />
