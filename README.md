@@ -22,6 +22,7 @@
 <img align="left" alt="git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="github" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="shell" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+<img align="left" alt="emacs" width="35px" src="https://github.com/devicons/devicon/blob/develop/icons/emacs/emacs-original.svg" />
 <img align="left" alt="vim" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" />
 <img align="left" alt="docker" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="ansible" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" />
