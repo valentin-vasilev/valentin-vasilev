@@ -27,6 +27,7 @@
 <img align="left" alt="terraform" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 <img align="left" alt="azure" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 <img align="left" alt="aws" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="jira" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
 
 <br />
 <br />
