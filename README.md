@@ -28,6 +28,7 @@
 <img align="left" alt="azure" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 <img align="left" alt="aws" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="jira" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
+<img align="left" alt="jira" width="35px" src="https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo.svg" />
 
 <br />
 <br />
