@@ -1,10 +1,10 @@
 ### About me:
 
-:ghost: ghost in the (z)shell
-:test_tube: NetDevOps experimentator
-:free: open source adopter 
-🌥️ embrace the cloud
-🎨 serial system ricer 
+* :ghost: ghost in the (z)shell
+* :test_tube: NetDevOps experimentator
+* :free: open source adopter 
+* 🌥️ embrace the cloud
+* 🎨 serial system ricer 
 
 Likes custom keyboards, craft beer and mountain creek fishing.
 
