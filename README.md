@@ -1,6 +1,12 @@
 ### About me:
 
-A Ghost in the (z)shell, NetDevOps experimentator, open source adopter, serial system ricer. Likes custom keyboards, craft beer and mountain creek fishing.
+:ghost: ghost in the (z)shell
+:test_tube: NetDevOps experimentator
+:free: open source adopter 
+🌥️ embrace the cloud
+🎨 serial system ricer 
+
+Likes custom keyboards, craft beer and mountain creek fishing.
 
 ### Connect with me
 
