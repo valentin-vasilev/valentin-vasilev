@@ -5,13 +5,13 @@ A dedicated NetOps engineer, loving husband and father of two 👧, lifetime lea
 Things to know about me:<br>
   • 👻 ghost in the (z)?sh(ell)?<br>
   • 📓 :%s/ide/vim/g<br>
-  • 🧪 NetDevOps experimentator
-  • 🆓 open source adopter
-  • 🌥️ multi-cloud practitioner
-  • 🎨 serial system ricer
-  • 🍺 beer connoisseur
-  • 🎣 passionate angler
-  • 🎹 custom keyboard builder
+  • 🧪 NetDevOps experimentator<br>
+  • 🆓 open source adopter<br>
+  • 🌥️ multi-cloud practitioner<br>
+  • 🎨 serial system ricer<br>
+  • 🍺 beer connoisseur<br>
+  • 🎣 passionate angler<br>
+  • 🎹 custom keyboard builder<br>
 
 ### Connect with me
 
