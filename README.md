@@ -2,11 +2,9 @@
 
 A dedicated NetOps engineer, loving husband and father of two 👧, lifetime learner and mentor. 
 
-Things to know about me:
-
-  • 👻 ghost in the (z)?sh(ell)?
-  
-  • 📓 :%s/ide/vim/g
+Things to know about me:<br>
+  • 👻 ghost in the (z)?sh(ell)?<br>
+  • 📓 :%s/ide/vim/g<br>
   • 🧪 NetDevOps experimentator
   • 🆓 open source adopter
   • 🌥️ multi-cloud practitioner
