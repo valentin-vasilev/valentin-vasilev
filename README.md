@@ -1,12 +1,17 @@
 ### About me:
 
-* :ghost: ghost in the (z)shell
-* :test_tube: NetDevOps experimentator
-* :free: open source adopter 
-* 🌥️ embrace the cloud
-* 🎨 serial system ricer 
+A dedicated NetOps engineer, loving husband and father of two 👧, lifetime learner and mentor. 
 
-Likes custom keyboards, craft beer and mountain creek fishing.
+Things to know about me:
+  • 👻 ghost in the (z)?sh(ell)?
+  • 📓 :%s/ide/vim/g
+  • 🧪 NetDevOps experimentator
+  • 🆓 open source adopter
+  • 🌥️ multi-cloud practitioner
+  • 🎨 serial system ricer
+  • 🍺 beer connoisseur
+  • 🎣 passionate angler
+  • 🎹 custom keyboard builder
 
 ### Connect with me
 
